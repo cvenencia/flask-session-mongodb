@@ -1,3 +1,10 @@
+Version 0.5.1
+-------------
+
+Released 2024-01-30
+
+-   Fix compatibility with latest version of Pymongo
+
 Version 0.5.0
 -------------
 

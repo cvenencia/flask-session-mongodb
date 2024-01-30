@@ -1,6 +1,6 @@
 [project]
-name = "Flask-Session"
-description = "Server-side session support for Flask"
+name = "Flask-Session-MongoDB"
+description = "Server-side session support for Flask. Updated to work with latest version of Pymongo"
 readme = "README.rst"
 license = {text = "BSD-3-Clause"}
 maintainers = [{name = "Pallets Community Ecosystem", email = "contact@palletsprojects.com"}]

@@ -1,6 +1,6 @@
 import importlib.metadata
 
-project = "Flask-Session"
+project = "Flask-Session-MongoDB"
 author = "Pallets Community Ecosystem"
 copyright = f"2014, {author}"
 release = importlib.metadata.version("Flask-Session")
